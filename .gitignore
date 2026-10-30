@@ -1,0 +1,12 @@
+# Personal research and application records should not be committed
+private/
+profiles/
+applications/
+*.xlsx
+*.csv
+*.pdf
+.env
+.env.*
+.DS_Store
+__pycache__/
+
